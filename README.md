@@ -1,7 +1,6 @@
 # Olá, Mundo
 
-Primeiro repositório do curso Git e GitHub
+Primeiro repositório do curso Git e GitHub do Estudonauta
+Certificado: [Git e Github](https://www.estudonauta.com/certificates/certificado-20h/?course_id=124721&cert-nonce=57ab2fc295)
 
-Repositório criado durante uma aula ao vivo
 
-Essa linha eu adicionei diretamente no site, que IMPRESSIONANTE!
